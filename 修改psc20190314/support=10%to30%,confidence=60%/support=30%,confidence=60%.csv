@@ -1,0 +1,7 @@
+Item1,Item2,Support,Confidence,Lift
+"('Non-IACS',)","('FOCs',)",31.21%,65.45%,0.979
+"('General cargo/multipurpose',)","('FOCs',)",32.87%,68.66%,1.027
+"('Non-IACS',)","('General cargo/multipurpose',)",34.81%,73.00%,1.525
+"('General cargo/multipurpose',)","('Non-IACS',)",34.81%,72.73%,1.525
+"('IACS',)","('FOCs',)",35.66%,68.16%,1.019
+"('YEAR[15~30)',)","('FOCs',)",35.75%,67.84%,1.015

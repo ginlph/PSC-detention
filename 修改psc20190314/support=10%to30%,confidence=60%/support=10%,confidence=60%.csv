@@ -1,0 +1,215 @@
+Item1,Item2,Support,Confidence,Lift
+"('ONE-11', 'Non-IACS')","('General cargo/multipurpose',)",10.04%,70.03%,1.463
+"('ONE-11', 'General cargo/multipurpose')","('Non-IACS',)",10.04%,74.71%,1.567
+"('TON>20000', 'YEAR[15~30)')","('IACS',)",10.06%,92.30%,1.764
+"('DAY[1~3)', 'Non-IACS')","('FOCs',)",10.19%,64.60%,0.966
+"('Cambodia',)","('YEAR[15~30)',)",10.24%,64.69%,1.228
+"('Cambodia',)","('FOCs', 'YEAR[15~30)')",10.24%,64.69%,1.810
+"('FOCs', 'Cambodia')","('YEAR[15~30)',)",10.24%,64.69%,1.228
+"('YEAR[15~30)', 'Cambodia')","('FOCs',)",10.24%,100.00%,1.496
+"('ONE-141',)","('14104',)",10.38%,66.97%,6.454
+"('14104',)","('ONE-141',)",10.38%,100.00%,6.454
+"('14104',)","('ONE-14',)",10.38%,100.00%,5.233
+"('ONE-141',)","('ONE-14', '14104')",10.38%,66.97%,6.454
+"('14104',)","('ONE-141', 'ONE-14')",10.38%,100.00%,6.454
+"('ONE-141', 'ONE-14')","('14104',)",10.38%,66.97%,6.454
+"('ONE-141', '14104')","('ONE-14',)",10.38%,100.00%,5.233
+"('ONE-14', '14104')","('ONE-141',)",10.38%,100.00%,6.454
+"('Non-IACS', 'Non-FOCs')","('General cargo/multipurpose',)",10.39%,63.04%,1.317
+"('Non-FOCs', 'General cargo/multipurpose')","('Non-IACS',)",10.39%,69.25%,1.452
+"('ONE-03',)","('YEAR[15~30)',)",10.40%,63.13%,1.198
+"('YEAR[5~15)', 'TON>20000')","('IACS',)",10.41%,97.98%,1.873
+"('ONE-04',)","('FOCs',)",10.46%,68.88%,1.030
+"('ONE-07', 'Panama')","('FOCs',)",10.57%,100.00%,1.496
+"('Cambodia',)","('Non-IACS', 'TON<2000')",10.57%,66.78%,2.617
+"('Non-IACS', 'Cambodia')","('TON<2000',)",10.57%,68.64%,2.341
+"('TON<2000', 'Cambodia')","('Non-IACS',)",10.57%,99.12%,2.079
+"('DAY[1~3)', 'Bulk carrier')","('IACS',)",10.57%,87.96%,1.681
+"('Cambodia',)","('Non-IACS', 'FOCs', 'TON<2000')",10.57%,66.78%,3.693
+"('FOCs', 'Cambodia')","('Non-IACS', 'TON<2000')",10.57%,66.78%,2.617
+"('Non-IACS', 'Cambodia')","('TON<2000', 'FOCs')",10.57%,68.64%,3.459
+"('TON<2000', 'Cambodia')","('Non-IACS', 'FOCs')",10.57%,99.12%,3.176
+"('Non-IACS', 'FOCs', 'Cambodia')","('TON<2000',)",10.57%,68.64%,2.341
+"('TON<2000', 'FOCs', 'Cambodia')","('Non-IACS',)",10.57%,99.12%,2.079
+"('Non-IACS', 'TON<2000', 'Cambodia')","('FOCs',)",10.57%,100.00%,1.496
+"('Cambodia',)","('TON<2000',)",10.67%,67.37%,2.297
+"('Cambodia',)","('TON<2000', 'FOCs')",10.67%,67.37%,3.395
+"('FOCs', 'Cambodia')","('TON<2000',)",10.67%,67.37%,2.297
+"('TON<2000', 'Cambodia')","('FOCs',)",10.67%,100.00%,1.496
+"('ONE-03',)","('Non-IACS',)",10.76%,65.29%,1.369
+"('ONE-01',)","('Non-IACS',)",10.88%,64.68%,1.356
+"('ONE-10',)","('Non-IACS',)",10.90%,68.06%,1.427
+"('DAY<1',)","('FOCs',)",10.94%,65.99%,0.987
+"('11101',)","('ONE-11',)",11.01%,100.00%,3.685
+"('ONE-03',)","('FOCs',)",11.05%,67.03%,1.002
+"('ONE-01',)","('FOCs',)",11.12%,66.11%,0.989
+"('DAY[3~7)',)","('FOCs',)",11.18%,66.76%,0.998
+"('DAY[1~3)', 'Panama')","('FOCs',)",11.26%,100.00%,1.496
+"('TON[2000~5000)', 'Non-IACS')","('General cargo/multipurpose',)",11.26%,81.41%,1.701
+"('TON[2000~5000)', 'General cargo/multipurpose')","('Non-IACS',)",11.26%,70.64%,1.481
+"('TON>20000', 'FOCs')","('IACS', 'Bulk carrier')",11.30%,63.03%,3.125
+"('TON>20000', 'Bulk carrier')","('IACS', 'FOCs')",11.30%,66.46%,1.864
+"('FOCs', 'Bulk carrier')","('IACS', 'TON>20000')",11.30%,65.37%,2.750
+"('IACS', 'TON>20000', 'FOCs')","('Bulk carrier',)",11.30%,66.61%,2.793
+"('IACS', 'TON>20000', 'Bulk carrier')","('FOCs',)",11.30%,71.61%,1.071
+"('IACS', 'FOCs', 'Bulk carrier')","('TON>20000',)",11.30%,77.80%,3.070
+"('TON>20000', 'FOCs', 'Bulk carrier')","('IACS',)",11.30%,92.74%,1.773
+"('DAY<1',)","('IACS',)",11.71%,70.65%,1.351
+"('DAY[1~3)', 'Non-IACS')","('General cargo/multipurpose',)",11.82%,74.93%,1.565
+"('DAY[1~3)', 'General cargo/multipurpose')","('Non-IACS',)",11.82%,68.46%,1.436
+"('DAY[1~3)', 'General cargo/multipurpose')","('FOCs',)",11.87%,68.74%,1.028
+"('TON<2000', 'FOCs')","('Non-IACS', 'YEAR[15~30)', 'General cargo/multipurpose')",12.03%,60.64%,2.821
+"('TON<2000', 'YEAR[15~30)')","('Non-IACS', 'FOCs', 'General cargo/multipurpose')",12.03%,60.86%,2.492
+"('Non-IACS', 'FOCs', 'YEAR[15~30)')","('TON<2000', 'General cargo/multipurpose')",12.03%,61.15%,2.870
+"('Non-IACS', 'FOCs', 'TON<2000')","('YEAR[15~30)', 'General cargo/multipurpose')",12.03%,66.56%,2.337
+"('Non-IACS', 'YEAR[15~30)', 'TON<2000')","('FOCs', 'General cargo/multipurpose')",12.03%,67.16%,2.043
+"('Non-IACS', 'TON<2000', 'General cargo/multipurpose')","('FOCs', 'YEAR[15~30)')",12.03%,61.36%,1.717
+"('TON<2000', 'FOCs', 'YEAR[15~30)')","('Non-IACS', 'General cargo/multipurpose')",12.03%,83.15%,2.389
+"('TON<2000', 'FOCs', 'General cargo/multipurpose')","('Non-IACS', 'YEAR[15~30)')",12.03%,73.71%,2.620
+"('TON<2000', 'YEAR[15~30)', 'General cargo/multipurpose')","('Non-IACS', 'FOCs')",12.03%,78.18%,2.505
+"('Non-IACS', 'FOCs', 'YEAR[15~30)', 'General cargo/multipurpose')","('TON<2000',)",12.03%,73.63%,2.511
+"('TON<2000', 'Non-IACS', 'FOCs', 'YEAR[15~30)')","('General cargo/multipurpose',)",12.03%,88.59%,1.851
+"('Non-IACS', 'FOCs', 'TON<2000', 'General cargo/multipurpose')","('YEAR[15~30)',)",12.03%,78.03%,1.481
+"('Non-IACS', 'YEAR[15~30)', 'TON<2000', 'General cargo/multipurpose')","('FOCs',)",12.03%,83.28%,1.246
+"('TON<2000', 'FOCs', 'YEAR[15~30)', 'General cargo/multipurpose')","('Non-IACS',)",12.03%,96.01%,2.013
+"('IACS', 'TON[5000~20000)')","('FOCs',)",12.13%,70.72%,1.058
+"('FOCs', 'TON[5000~20000)')","('IACS',)",12.13%,75.06%,1.435
+"('TON>20000', 'FOCs')","('Bulk carrier',)",12.18%,67.96%,2.850
+"('TON>20000', 'Bulk carrier')","('FOCs',)",12.18%,71.66%,1.072
+"('FOCs', 'Bulk carrier')","('TON>20000',)",12.18%,70.49%,2.782
+"('DAY[1~3)', 'TON>20000')","('IACS',)",12.21%,95.03%,1.817
+"('ONE-14',)","('FOCs',)",12.36%,64.69%,0.967
+"('Panama', 'YEAR[15~30)')","('FOCs',)",12.47%,100.00%,1.496
+"('FOCs', 'TON<2000')","('YEAR[15~30)', 'General cargo/multipurpose')",12.53%,63.16%,2.218
+"('TON<2000', 'YEAR[15~30)')","('FOCs', 'General cargo/multipurpose')",12.53%,63.39%,1.929
+"('FOCs', 'TON<2000', 'General cargo/multipurpose')","('YEAR[15~30)',)",12.53%,76.78%,1.457
+"('TON<2000', 'YEAR[15~30)', 'General cargo/multipurpose')","('FOCs',)",12.53%,81.43%,1.218
+"('FOCs', 'TON<2000', 'YEAR[15~30)')","('General cargo/multipurpose',)",12.53%,86.61%,1.809
+"('FOCs', 'YEAR[15~30)', 'General cargo/multipurpose')","('TON<2000',)",12.53%,60.97%,2.079
+"('ONE-07', 'Non-IACS')","('FOCs',)",12.60%,61.64%,0.922
+"('ONE-07', 'IACS')","('FOCs',)",12.70%,68.65%,1.027
+"('ONE-07', 'General cargo/multipurpose')","('FOCs',)",12.84%,64.56%,0.966
+"('TON[2000~5000)',)","('FOCs',)",12.93%,60.38%,0.903
+"('ONE-15',)","('FOCs',)",13.00%,71.14%,1.064
+"('TWO-07',)","('ONE-07',)",13.32%,100.00%,2.568
+"('TON<2000', 'YEAR[15~30)')","('Non-IACS', 'FOCs')",13.58%,68.70%,2.201
+"('FOCs', 'TON<2000')","('Non-IACS', 'YEAR[15~30)')",13.58%,68.45%,2.433
+"('Non-IACS', 'TON<2000', 'YEAR[15~30)')","('FOCs',)",13.58%,75.80%,1.134
+"('FOCs', 'TON<2000', 'YEAR[15~30)')","('Non-IACS',)",13.58%,93.86%,1.968
+"('FOCs', 'Non-IACS', 'TON<2000')","('YEAR[15~30)',)",13.58%,75.13%,1.426
+"('FOCs', 'Non-IACS', 'YEAR[15~30)')","('TON<2000',)",13.58%,69.03%,2.354
+"('DAY[1~3)', 'YEAR[15~30)')","('FOCs',)",13.61%,66.83%,1.000
+"('Cambodia',)","('Non-IACS', 'General cargo/multipurpose')",13.71%,86.60%,2.488
+"('Non-IACS', 'Cambodia')","('General cargo/multipurpose',)",13.71%,89.01%,1.860
+"('Cambodia', 'General cargo/multipurpose')","('Non-IACS',)",13.71%,97.62%,2.047
+"('Cambodia',)","('Non-IACS', 'FOCs', 'General cargo/multipurpose')",13.71%,86.60%,3.546
+"('Cambodia', 'General cargo/multipurpose')","('Non-IACS', 'FOCs')",13.71%,97.62%,3.128
+"('Non-IACS', 'Cambodia')","('FOCs', 'General cargo/multipurpose')",13.71%,89.01%,2.708
+"('FOCs', 'Cambodia')","('Non-IACS', 'General cargo/multipurpose')",13.71%,86.60%,2.488
+"('Non-IACS', 'Cambodia', 'General cargo/multipurpose')","('FOCs',)",13.71%,100.00%,1.496
+"('FOCs', 'Cambodia', 'General cargo/multipurpose')","('Non-IACS',)",13.71%,97.62%,2.047
+"('Non-IACS', 'FOCs', 'Cambodia')","('General cargo/multipurpose',)",13.71%,89.01%,1.860
+"('TON[2000~5000)',)","('Non-IACS',)",13.83%,64.60%,1.355
+"('ONE-07', 'YEAR[15~30)')","('FOCs',)",14.00%,65.99%,0.987
+"('Cambodia',)","('General cargo/multipurpose',)",14.05%,88.72%,1.854
+"('Cambodia',)","('FOCs', 'General cargo/multipurpose')",14.05%,88.72%,2.699
+"('FOCs', 'Cambodia')","('General cargo/multipurpose',)",14.05%,88.72%,1.854
+"('Cambodia', 'General cargo/multipurpose')","('FOCs',)",14.05%,100.00%,1.496
+"('YEAR[5~15)', 'IACS')","('FOCs',)",14.43%,71.12%,1.064
+"('YEAR[5~15)', 'FOCs')","('IACS',)",14.43%,79.37%,1.517
+"('TON<2000', 'YEAR[15~30)')","('Non-IACS', 'General cargo/multipurpose')",14.45%,73.08%,2.099
+"('TON<2000', 'General cargo/multipurpose')","('Non-IACS', 'YEAR[15~30)')",14.45%,67.83%,2.411
+"('Non-IACS', 'YEAR[15~30)', 'General cargo/multipurpose')","('TON<2000',)",14.45%,67.22%,2.292
+"('TON<2000', 'YEAR[15~30)', 'General cargo/multipurpose')","('Non-IACS',)",14.45%,93.88%,1.969
+"('Non-IACS', 'YEAR[15~30)', 'TON<2000')","('General cargo/multipurpose',)",14.45%,80.64%,1.685
+"('Non-IACS', 'TON<2000', 'General cargo/multipurpose')","('YEAR[15~30)',)",14.45%,73.68%,1.398
+"('FOCs', 'TON<2000')","('YEAR[15~30)',)",14.47%,72.93%,1.384
+"('TON<2000', 'YEAR[15~30)')","('FOCs',)",14.47%,73.19%,1.095
+"('Bulk carrier',)","('IACS', 'FOCs')",14.52%,60.89%,1.708
+"('IACS', 'Bulk carrier')","('FOCs',)",14.52%,71.99%,1.077
+"('FOCs', 'Bulk carrier')","('IACS',)",14.52%,84.03%,1.606
+"('ONE-07', 'Non-IACS')","('General cargo/multipurpose',)",15.12%,73.94%,1.545
+"('ONE-07', 'General cargo/multipurpose')","('Non-IACS',)",15.12%,76.02%,1.594
+"('TON<2000', 'YEAR[15~30)')","('General cargo/multipurpose',)",15.39%,77.85%,1.626
+"('TON<2000', 'General cargo/multipurpose')","('YEAR[15~30)',)",15.39%,72.25%,1.371
+"('Cambodia',)","('Non-IACS',)",15.41%,97.29%,2.040
+"('Cambodia',)","('Non-IACS', 'FOCs')",15.41%,97.29%,3.117
+"('Non-IACS', 'Cambodia')","('FOCs',)",15.41%,100.00%,1.496
+"('FOCs', 'Cambodia')","('Non-IACS',)",15.41%,97.29%,2.040
+"('TON<2000', 'FOCs')","('Non-IACS', 'General cargo/multipurpose')",15.42%,77.72%,2.233
+"('TON<2000', 'General cargo/multipurpose')","('Non-IACS', 'FOCs')",15.42%,72.40%,2.320
+"('Non-IACS', 'TON<2000')","('FOCs', 'General cargo/multipurpose')",15.42%,60.44%,1.839
+"('Non-IACS', 'FOCs', 'General cargo/multipurpose')","('TON<2000',)",15.42%,63.14%,2.153
+"('TON<2000', 'FOCs', 'General cargo/multipurpose')","('Non-IACS',)",15.42%,94.47%,1.981
+"('Non-IACS', 'FOCs', 'TON<2000')","('General cargo/multipurpose',)",15.42%,85.31%,1.782
+"('Non-IACS', 'TON<2000', 'General cargo/multipurpose')","('FOCs',)",15.42%,78.64%,1.176
+"('ONE-141',)","('ONE-14',)",15.50%,100.00%,5.233
+"('ONE-14',)","('ONE-141',)",15.50%,81.09%,5.233
+"('TON>20000',)","('IACS', 'Bulk carrier')",15.78%,62.26%,3.086
+"('Bulk carrier',)","('IACS', 'TON>20000')",15.78%,66.15%,2.783
+"('IACS', 'TON>20000')","('Bulk carrier',)",15.78%,66.37%,2.783
+"('IACS', 'Bulk carrier')","('TON>20000',)",15.78%,78.22%,3.086
+"('TON>20000', 'Bulk carrier')","('IACS',)",15.78%,92.80%,1.774
+"('Cambodia',)","('FOCs',)",15.83%,100.00%,1.496
+"('TON[2000~5000)',)","('General cargo/multipurpose',)",15.94%,74.44%,1.555
+"('IACS', 'YEAR[15~30)')","('FOCs',)",16.07%,65.43%,0.979
+"('TON[5000~20000)',)","('FOCs',)",16.17%,67.59%,1.011
+"('TON<2000', 'FOCs')","('General cargo/multipurpose',)",16.33%,82.27%,1.719
+"('TON<2000', 'General cargo/multipurpose')","('FOCs',)",16.33%,76.63%,1.146
+"('Non-IACS', 'YEAR[15~30)', 'General cargo/multipurpose')","('FOCs',)",16.34%,76.03%,1.137
+"('FOCs', 'YEAR[15~30)', 'General cargo/multipurpose')","('Non-IACS',)",16.34%,79.50%,1.667
+"('FOCs', 'Non-IACS', 'YEAR[15~30)')","('General cargo/multipurpose',)",16.34%,83.05%,1.735
+"('Non-IACS', 'FOCs', 'General cargo/multipurpose')","('YEAR[15~30)',)",16.34%,66.91%,1.270
+"('DAY[1~3)', 'IACS')","('FOCs',)",16.40%,68.28%,1.021
+"('DAY[1~3)', 'FOCs')","('IACS',)",16.40%,61.66%,1.179
+"('ONE-11',)","('FOCs',)",16.91%,62.32%,0.932
+"('TON>20000',)","('IACS', 'FOCs')",16.96%,66.93%,1.877
+"('IACS', 'TON>20000')","('FOCs',)",16.96%,71.35%,1.067
+"('TON>20000', 'FOCs')","('IACS',)",16.96%,94.62%,1.809
+"('TON>20000',)","('Bulk carrier',)",17.00%,67.08%,2.813
+"('Bulk carrier',)","('TON>20000',)",17.00%,71.28%,2.813
+"('TON[5000~20000)',)","('IACS',)",17.16%,71.73%,1.371
+"('Bulk carrier',)","('FOCs',)",17.28%,72.46%,1.084
+"('TON<2000',)","('Non-IACS', 'YEAR[15~30)')",17.92%,61.11%,2.172
+"('Non-IACS', 'YEAR[15~30)')","('TON<2000',)",17.92%,63.69%,2.172
+"('Non-IACS', 'TON<2000')","('YEAR[15~30)',)",17.92%,70.22%,1.333
+"('TON<2000', 'YEAR[15~30)')","('Non-IACS',)",17.92%,90.63%,1.900
+"('TON>20000',)","('FOCs',)",17.92%,70.73%,1.058
+"('TON<2000',)","('Non-IACS', 'FOCs')",18.08%,61.66%,1.976
+"('Non-IACS', 'TON<2000')","('FOCs',)",18.08%,70.85%,1.060
+"('TON<2000', 'FOCs')","('Non-IACS',)",18.08%,91.11%,1.911
+"('Panama',)","('IACS',)",18.10%,69.16%,1.322
+"('Panama',)","('IACS', 'FOCs')",18.10%,69.16%,1.940
+"('IACS', 'Panama')","('FOCs',)",18.10%,100.00%,1.496
+"('Panama', 'FOCs')","('IACS',)",18.10%,69.16%,1.322
+"('YEAR[5~15)',)","('FOCs',)",18.18%,65.46%,0.979
+"('TON<2000',)","('Non-IACS', 'General cargo/multipurpose')",19.61%,66.88%,1.921
+"('Non-IACS', 'TON<2000')","('General cargo/multipurpose',)",19.61%,76.85%,1.606
+"('TON<2000', 'General cargo/multipurpose')","('Non-IACS',)",19.61%,92.06%,1.930
+"('Non-IACS', 'FOCs')","('YEAR[15~30)',)",19.68%,63.06%,1.197
+"('Non-IACS', 'YEAR[15~30)')","('FOCs',)",19.68%,69.94%,1.046
+"('TON<2000',)","('YEAR[15~30)',)",19.77%,67.43%,1.280
+"('TON<2000',)","('FOCs',)",19.84%,67.67%,1.012
+"('Bulk carrier',)","('IACS',)",20.17%,84.57%,1.617
+"('YEAR[5~15)',)","('IACS',)",20.29%,73.05%,1.396
+"('FOCs', 'General cargo/multipurpose')","('YEAR[15~30)',)",20.56%,62.55%,1.187
+"('YEAR[15~30)', 'General cargo/multipurpose')","('FOCs',)",20.56%,72.20%,1.080
+"('TON<2000',)","('General cargo/multipurpose',)",21.30%,72.65%,1.518
+"('Non-IACS', 'YEAR[15~30)')","('General cargo/multipurpose',)",21.50%,76.40%,1.596
+"('Non-IACS', 'General cargo/multipurpose')","('YEAR[15~30)',)",21.50%,61.75%,1.172
+"('YEAR[15~30)', 'General cargo/multipurpose')","('Non-IACS',)",21.50%,75.49%,1.583
+"('TON>20000',)","('IACS',)",23.77%,93.80%,1.793
+"('DAY[1~3)',)","('IACS',)",24.02%,60.35%,1.154
+"('Non-IACS', 'FOCs')","('General cargo/multipurpose',)",24.43%,78.27%,1.635
+"('Non-IACS', 'General cargo/multipurpose')","('FOCs',)",24.43%,70.16%,1.049
+"('FOCs', 'General cargo/multipurpose')","('Non-IACS',)",24.43%,74.32%,1.559
+"('ONE-07',)","('FOCs',)",25.30%,64.97%,0.972
+"('TON<2000',)","('Non-IACS',)",25.52%,87.03%,1.825
+"('Panama',)","('FOCs',)",26.17%,100.00%,1.496
+"('DAY[1~3)',)","('FOCs',)",26.59%,66.82%,0.999
+"('Non-IACS',)","('FOCs',)",31.21%,65.45%,0.979
+"('General cargo/multipurpose',)","('FOCs',)",32.87%,68.66%,1.027
+"('Non-IACS',)","('General cargo/multipurpose',)",34.81%,73.00%,1.525
+"('General cargo/multipurpose',)","('Non-IACS',)",34.81%,72.73%,1.525
+"('IACS',)","('FOCs',)",35.66%,68.16%,1.019
+"('YEAR[15~30)',)","('FOCs',)",35.75%,67.84%,1.015

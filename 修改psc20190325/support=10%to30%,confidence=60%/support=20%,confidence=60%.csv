@@ -1,0 +1,24 @@
+Item1,Item2,Support,Confidence,Lift
+"('Bulk carrier',)","('IACS',)",20.17%,84.57%,1.617
+"('YEAR[5~15)',)","('IACS',)",20.29%,73.05%,1.396
+"('FOCs', 'General cargo/multipurpose')","('YEAR[15~30)',)",20.56%,62.55%,1.187
+"('YEAR[15~30)', 'General cargo/multipurpose')","('FOCs',)",20.56%,72.20%,1.080
+"('TON<2000',)","('General cargo/multipurpose',)",21.30%,72.65%,1.518
+"('Non-IACS', 'YEAR[15~30)')","('General cargo/multipurpose',)",21.50%,76.40%,1.596
+"('Non-IACS', 'General cargo/multipurpose')","('YEAR[15~30)',)",21.50%,61.75%,1.172
+"('YEAR[15~30)', 'General cargo/multipurpose')","('Non-IACS',)",21.50%,75.49%,1.583
+"('TON>20000',)","('IACS',)",23.77%,93.80%,1.793
+"('DAY[1~3)',)","('IACS',)",24.02%,60.35%,1.154
+"('Non-IACS', 'FOCs')","('General cargo/multipurpose',)",24.43%,78.27%,1.635
+"('Non-IACS', 'General cargo/multipurpose')","('FOCs',)",24.43%,70.16%,1.049
+"('FOCs', 'General cargo/multipurpose')","('Non-IACS',)",24.43%,74.32%,1.559
+"('ONE-07',)","('FOCs',)",25.30%,64.97%,0.972
+"('TON<2000',)","('Non-IACS',)",25.52%,87.03%,1.825
+"('Panama',)","('FOCs',)",26.17%,100.00%,1.496
+"('DAY[1~3)',)","('FOCs',)",26.59%,66.82%,0.999
+"('Non-IACS',)","('FOCs',)",31.21%,65.45%,0.979
+"('General cargo/multipurpose',)","('FOCs',)",32.87%,68.66%,1.027
+"('Non-IACS',)","('General cargo/multipurpose',)",34.81%,73.00%,1.525
+"('General cargo/multipurpose',)","('Non-IACS',)",34.81%,72.73%,1.525
+"('IACS',)","('FOCs',)",35.66%,68.16%,1.019
+"('YEAR[15~30)',)","('FOCs',)",35.75%,67.84%,1.015
